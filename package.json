@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/deep-arch/Subhadeep_http_server#readme",
   "dependencies": {
-    "nodemon": "^2.0.12"
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2"
   }
 }
