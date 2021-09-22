@@ -2,7 +2,7 @@
 
 The goal of this project is to create a nodeJS http server and use it to perform specific tasks. 
 
----
+
 ## Installations
 ### 1. Install git
 
@@ -35,7 +35,7 @@ cd Subhadeep-http-server
 ```sh
 npm install
 ```
----
+
 
 
 ## Run the server:
@@ -43,7 +43,7 @@ npm install
 ```sh
 npm run start
 ```
----
+
 
 ## Problems:
 
