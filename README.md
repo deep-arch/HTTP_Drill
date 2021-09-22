@@ -21,7 +21,7 @@ The goal of this project is to create a nodeJS http server and use it to perform
 ### 4. Clone the repository :
 
 ```sh
-git clone https://github.com/deep-arch/Subhadeep_http_server.git
+git clone -b expressJS https://github.com/deep-arch/Subhadeep_http_server.git
 ```
 
 ### 5. Go to the working directory
@@ -105,3 +105,6 @@ npm run start
 
 - **`GET /delay/{delay_in_seconds}`** - Should return a success response but after the specified delay in the request. For example: If the request sent is
   - GET /delay/3, then the server should wait for 3 seconds and only then send a response with 200 status code.
+
+---
+##### **When you are cloning the repository using [step 4](#4-clone-the-repository), it clones the repository from a different branch **`expressJS`** where the code is refactored using ExpressJS. **
